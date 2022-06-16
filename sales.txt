@@ -1,0 +1,11 @@
+Month	Salesman	Sales	Commission	Region
+Jan	Barber		10381	.10		NJ, PA
+Jan	Cameron		8781	.15		OH, KY, IN
+Jan	Smith		9814	.12		NY, VA, WV, DC
+Feb	Barber		19711	.10		NJ, OH, KY, IN
+Feb	Dean		15831	.16		PA, VA, WV, DC
+Feb	Smith		7601	.12		NY, MA
+Mar	Barber		15877	.10		NJ, OH, KY, NY
+Mar	Smith		20857	.16		PA, VA, WV, DC, MA, IN
+Apr	Cameron		14863	.15		NJ, OH, PA, VA, DC
+Apr	Dean		9823	.16		IN, MA, WV, KY
